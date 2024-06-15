@@ -1,4 +1,3 @@
 def print_prime():
-    for i in range(10):
-        print("check")
-    print("even nos")
+    if(10%2 == 0):
+        print("even")
