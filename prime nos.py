@@ -1,2 +1,3 @@
 def print_prime():
-    print("prime nos")
+    for i in range(10):
+        print("check")
