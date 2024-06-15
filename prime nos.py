@@ -1,2 +1,2 @@
 def print_prime():
-    print("prime nos")
+    print("even nos")
